@@ -5,7 +5,7 @@ $(function(){
        //smoth scroll for ie edge etc brower
 
     // Add smooth scrolling to all links
-    $("a").on('click', function(event) {
+   /* $("a").on('click', function(event) {
   
         if (this.hash !== "") {
           event.preventDefault();
@@ -20,7 +20,7 @@ $(function(){
           });
         } 
       });
-
+*/
     //   end scroll 
 
     // Remove svg.radial-progress .complete inline styling
